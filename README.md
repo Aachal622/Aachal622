@@ -20,7 +20,7 @@
 - 📫 How to reach me: aachalkala2001@gmail.com
 
 
-[![Linkedin: Aachal](https://img.shields.io/badge/-Aachal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aachal-kala/)](https://www.linkedin.com/in/aachal-kala/)
+[![Linkedin: Aachal](https://img.shields.io/badge/-Aachal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aachal-kala/)](https://www.linkedin.com/in/aachal-kala-1050a31a6/)
 [![GitHub Aachal622](https://img.shields.io/github/followers/Aachal622?label=follow&style=social)](https://github.com/Aachal622)
 
 
