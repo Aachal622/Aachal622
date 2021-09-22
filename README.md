@@ -16,7 +16,7 @@
 
 
 
-- 🔭 I’m currently working on [Product Personlisation using Machine Learning](https://machinelearning.xyz/).
+- 🔭 I completed project [Product Personlisation using Machine Learning](https://machinelearning.xyz/).
 - 📫 How to reach me: aachalkala2001@gmail.com
 
 
