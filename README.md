@@ -14,7 +14,7 @@
 <br/>
 <br/>
 
-
+- 📄Microsoft Certified in Azure AI Fundamentals (AI-900)
 
 - 🔭 I completed project [Product Personlisation using Machine Learning](https://machinelearning.xyz/).
 - 📫 How to reach me: aachalkala2001@gmail.com
