@@ -7,7 +7,7 @@
 <a href="https://github.com/Aachal622">
   <img align="left" alt="Aachal's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://instagram.com/_aachal.12/">
+<a href="https://instagram.com/aachal.11_/">
   <img align="left" alt="Aachal's's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
